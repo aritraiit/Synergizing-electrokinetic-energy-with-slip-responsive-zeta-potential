@@ -8,11 +8,22 @@ This repository contains the code and data associated with the manuscript:
 
 ## 📖 Overview
 
-This work presents a comprehensive theoretical and numerical study on the interplay between:
-- **Slip-dependent zeta potential** at channel walls  
-- **Non-Newtonian fluid rheology** modeled using the Carreau–Yasuda relation  
+This work presents a comprehensive theoretical framework to investigate the interaction between slip responsive zeta potential at the channel surface and the complex fluid rheology of the fluid medium modeled using the Carreau-Yashuda constitutive relation. We have adopted regular perturbation methodology to solve the coupled electrohydrodynamics equations for low Wiessenberg number (Wi), alongside a numerical solution is also obtained using COMSOL Multiphysics commercial code (using the Finite Element Method). The close agreement of the present results with the earlier studies in the limiting condition of Newtonian fluid medium validates the numerical solution reported in the present work
 
-We numerically solved the fully-coupled **Poisson–Boltzmann** and **momentum equations** using the Finite Element Method (FEM) and provided perturbation-based analytical solutions for low Weissenberg numbers.
+## 🔬 Connection to Experimental Systems
+
+In order to establish a connection between our theoretical predictions and real experimental systems,  
+we identify several electrolyte solutions whose rheological parameters have been measured previously  
+and fall within the shear-thinning regime relevant to our study ($n \approx 0.5$).  
+
+Representative examples include:
+
+- **Partially hydrolyzed polyacrylamide (HPAM):** exhibits $n = 0.426$ for molar concentrations $C[\eta] < 30$ [55]
+- **Sodium carboxymethylcellulose (CMC):** in 0.5 M NaCl under unentangled conditions, with reported $n \approx 0.25{-}0.37$ [46]
+- **Hyaluronic acid (HA, 1.6 MDa):** at 0.10 wt.% in PBS, showing $n \approx 0.47{-}0.68$ [33]
+
+These solutions therefore represent promising candidates for experimental validation, albeit with some inevitable inaccuracies arising from the simplifying assumptions of the present theory.
+
 
 Key findings:
 - Pseudo-plastic fluids (`n < 1`) enhance the induced streaming potential and energy conversion efficiency.
