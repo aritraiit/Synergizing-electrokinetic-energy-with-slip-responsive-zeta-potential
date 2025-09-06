@@ -61,22 +61,8 @@ These solutions therefore represent promising candidates for experimental valida
 
 ---
 ## 📂 Repository Structure
-<!-- BEGIN: Repository tree (paste into README.md) -->
-<style>
-  .repo-tree { font-family: "SFMono-Regular", Menlo, Monaco, "Roboto Mono", monospace; line-height:1.5; }
-  .repo-tree .folder { color: #0b5fff; font-weight:700; }
-  .repo-tree .file { color: #0b3a3a; }
-  .repo-tree details { margin: 6px 0; }
-  .repo-tree summary { cursor: pointer; outline: none; }
-  .repo-tree ul { list-style: none; padding-left: 18px; margin: 6px 0; }
-  .repo-tree li { margin: 3px 0; white-space: nowrap; }
-  .badge { display:inline-block; background:#eef5ff; color:#0b5fff; border-radius:6px; padding:2px 6px; font-size:12px; margin-left:8px; }
-  .mono { font-family: inherit; font-size: 13px; }
-</style>
 
 <div class="repo-tree">
-  <strong>📂 Repository Structure</strong>
-
   <details open>
     <summary><span class="folder mono">codes_matlab/</span> <span class="badge">MATLAB scripts</span></summary>
     <ul>
