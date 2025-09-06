@@ -18,6 +18,12 @@ This work presents a comprehensive theoretical framework to investigate the inte
 
 We have adopted regular perturbation methodology to solve the coupled electrohydrodynamics equations for low Wiessenberg number (Wi), alongside a numerical solution is also obtained using COMSOL Multiphysics commercial code (using the Finite Element Method). The close agreement of the present results with the earlier studies in the limiting condition of Newtonian fluid medium validates the numerical solution reported in the present work
 
+<p align="center">
+  <img src="figures/psivalid.svg" alt="Figure 3a" width="450"/>
+  <img src="figures/uy_valid.svg" alt="Figure 3b" width="450"/>
+</p>
+
+
 ## 🔬 Connection to Experimental Systems
 
 In order to establish a connection between our theoretical predictions and real experimental systems,  
@@ -32,14 +38,8 @@ Representative examples include:
 
 These solutions therefore represent promising candidates for experimental validation, albeit with some inevitable inaccuracies arising from the simplifying assumptions of the present theory.
 
-
-Key findings:
-- Pseudo-plastic fluids (`n < 1`) enhance the induced streaming potential and energy conversion efficiency.
-- A non-monotonic relation exists between slip length and flow velocity due to competing slip and electrokinetic retardation effects.
-- Maximum electrokinetic efficiency can be enhanced by >250% through synergistic tuning of slip length and rheology.
-
 ---
-
+## 📂 Repository Structure
 
 
 📬 Contact
