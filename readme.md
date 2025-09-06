@@ -39,9 +39,7 @@ Our analysis reveals that as the electrokinetic separation parameter <em>K</em> 
   <img src="figures/maximumeff.jpg" alt="Figure 5a" width="350"/>
   <img src="figures/etaek_zetavary.jpg" alt="Figure 5b" width="350"/>
   <br>
-  <em>a) Comparison of electrostatic potential for different slip responsive zeta potentials with <a href="https://doi.org/10.1007/s10404-009-0536-0">Soong et. al. (2009)</a></em>; b) Comparison of streamwise velocity (<i>u*</i>) for a Newtonian fluid with 
-  <a href="https://dx.doi.org/10.1088/1402-4896/ad164f">Liu et al. (2024)</a></em>
-
+  <em>a)Line plots showing variation of <em>E<sub>s</sub><sup>*</sup></em> with <em>L<sup>*</sup></em> for different <em>n</em> values at <em>K = 10</em> ; b) Contour plots showing variation of dimensionless electroviscous parameter for different values of <em>n</em> and <em>L<sub>s</sub><sup>*</sup></em>; c)  Enhancement in electrokinetic efficiency for shear-thinning fluids; d) Variation of electrokinetic efficiency (<em>η<sub>ek</sub></em>) with <em>L<sub>s</sub><sup>*</sup></em> for different <em>ζ<sup>*</sup></em>.
 </p>
 
 
