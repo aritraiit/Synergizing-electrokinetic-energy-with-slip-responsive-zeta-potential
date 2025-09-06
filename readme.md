@@ -61,27 +61,81 @@ These solutions therefore represent promising candidates for experimental valida
 
 ---
 ## 📂 Repository Structure
-codes_matlab/  # MATLAB scripts for data analysis and post-processing
-│── lineplots/
-│   └── uyvelocity/
-│── validation scripts/
-datafiles/  # Data files exported from COMSOL Multiphysics simulations
-│── electrokinetic efficiency/
-│── electrostatic potential/
-│── electroviscous effect and flow .../
-│── streaming potential/
-│── u_velocity/
-figures/ 
-│── drawing.svg
-│── electroviscouseff.jpg
-│── Es_nvary.svg
-│── etaek_zetavary.jpg
-│── maximumeff.jpg
-│── psivalid.svg
-│── uy_valid.svg
-simulationfiles/ # COMSOL case files for reproducing simulations
-│── slipdepen_streamopt.mph
-readme.md  # Project description, usage, and key findings
+<!-- BEGIN: Repository tree (paste into README.md) -->
+<style>
+  .repo-tree { font-family: "SFMono-Regular", Menlo, Monaco, "Roboto Mono", monospace; line-height:1.5; }
+  .repo-tree .folder { color: #0b5fff; font-weight:700; }
+  .repo-tree .file { color: #0b3a3a; }
+  .repo-tree details { margin: 6px 0; }
+  .repo-tree summary { cursor: pointer; outline: none; }
+  .repo-tree ul { list-style: none; padding-left: 18px; margin: 6px 0; }
+  .repo-tree li { margin: 3px 0; white-space: nowrap; }
+  .badge { display:inline-block; background:#eef5ff; color:#0b5fff; border-radius:6px; padding:2px 6px; font-size:12px; margin-left:8px; }
+  .mono { font-family: inherit; font-size: 13px; }
+</style>
+
+<div class="repo-tree">
+  <strong>📂 Repository Structure</strong>
+
+  <details open>
+    <summary><span class="folder mono">codes_matlab/</span> <span class="badge">MATLAB scripts</span></summary>
+    <ul>
+      <li>
+        <details>
+          <summary><span class="folder mono">lineplots/</span></summary>
+          <ul>
+            <li><span class="folder mono">uyvelocity/</span></li>
+          </ul>
+        </details>
+      </li>
+      <li>
+        <details>
+          <summary><span class="folder mono">validation scripts/</span></summary>
+          <ul>
+            <li><span class="file mono"> <!-- leave empty or list files if any --> </span></li>
+          </ul>
+        </details>
+      </li>
+    </ul>
+  </details>
+
+  <details>
+    <summary><span class="folder mono">datafiles/</span> <span class="badge">COMSOL outputs</span></summary>
+    <ul>
+      <li><span class="folder mono">electrokinetic efficiency/</span></li>
+      <li><span class="folder mono">electrostatic potential/</span></li>
+      <li><span class="folder mono">electroviscous effect and flow .../</span></li>
+      <li><span class="folder mono">streaming potential/</span></li>
+      <li><span class="folder mono">u_velocity/</span></li>
+    </ul>
+  </details>
+
+  <details>
+    <summary><span class="folder mono">figures/</span> <span class="badge">plots & schematics</span></summary>
+    <ul>
+      <li><span class="file mono">drawing.svg</span></li>
+      <li><span class="file mono">electroviscouseff.jpg</span></li>
+      <li><span class="file mono">Es_nvary.svg</span></li>
+      <li><span class="file mono">etaek_zetavary.jpg</span></li>
+      <li><span class="file mono">maximumeff.jpg</span></li>
+      <li><span class="file mono">psivalid.svg</span></li>
+      <li><span class="file mono">uy_valid.svg</span></li>
+    </ul>
+  </details>
+
+  <details>
+    <summary><span class="folder mono">simulationfiles/</span> <span class="badge">COMSOL case</span></summary>
+    <ul>
+      <li><span class="file mono">slipdepen_streamopt.mph</span></li>
+    </ul>
+  </details>
+
+  <details>
+    <summary><span class="file mono">readme.md</span> <span class="badge">Project README</span></summary>
+  </details>
+</div>
+<!-- END: Repository tree -->
+
 
 
 
