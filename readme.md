@@ -3,8 +3,8 @@
 This repository contains the code and data associated with the manuscript:
 
 > **Enhancing Electrokinetic Energy Harvesting via Rheology and Slip-Responsive Zeta Potential**  
-> *Aritra Roy and Antarip Poddar*  
-> Indian Institute of Technology Bombay & IIT (ISM) Dhanbad
+> *Aritra Roy (IIT Bombay) and Antarip Poddar IIT (ISM)        Dhanbad*  
+ 
 
 ## 📖 Overview
 
@@ -20,3 +20,13 @@ Key findings:
 - Maximum electrokinetic efficiency can be enhanced by >250% through synergistic tuning of slip length and rheology.
 
 ---
+
+
+
+📬 Contact
+
+For questions, reach out to:
+
+Aritra Roy – 25M1662@iitb.ac.in
+
+Antarip Poddar – antarip@iitism.ac.in
