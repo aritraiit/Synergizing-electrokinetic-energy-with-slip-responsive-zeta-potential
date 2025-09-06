@@ -45,10 +45,6 @@ Our analysis reveals that as the electrokinetic separation parameter <em>K</em> 
 </p>
 
 
-
-
-
-
 ## 🔬 Connection to Experimental Systems
 
 In order to establish a connection between our theoretical predictions and real experimental systems,  
@@ -65,6 +61,29 @@ These solutions therefore represent promising candidates for experimental valida
 
 ---
 ## 📂 Repository Structure
+codes_matlab/  # MATLAB scripts for data analysis and post-processing
+│── lineplots/
+│   └── uyvelocity/
+│── validation scripts/
+datafiles/  # Data files exported from COMSOL Multiphysics simulations
+│── electrokinetic efficiency/
+│── electrostatic potential/
+│── electroviscous effect and flow .../
+│── streaming potential/
+│── u_velocity/
+figures/ 
+│── drawing.svg
+│── electroviscouseff.jpg
+│── Es_nvary.svg
+│── etaek_zetavary.jpg
+│── maximumeff.jpg
+│── psivalid.svg
+│── uy_valid.svg
+simulationfiles/ # COMSOL case files for reproducing simulations
+│── slipdepen_streamopt.mph
+readme.md  # Project description, usage, and key findings
+
+
 
 
 📬 Contact
