@@ -3,7 +3,7 @@
 This repository contains the code and data associated with the manuscript:
 
 > **Enhancing Electrokinetic Energy Harvesting via Rheology and Slip-Responsive Zeta Potential**  
-> *Aritra Roy (IIT Bombay) and Antarip Poddar IIT (ISM)        Dhanbad*  
+> *Aritra Roy (IIT Bombay) and Antarip Poddar (IIT(ISM)       Dhanbad)*  
  
 
 ## 📖 Overview
@@ -22,7 +22,7 @@ We have adopted regular perturbation methodology to solve the coupled electrohyd
   <img src="figures/psivalid.svg" alt="Figure 3a" width="350"/>
   <img src="figures/uy_valid.svg" alt="Figure 3b" width="350"/>
   <br>
-  <em>a) Comparison of electrostsatic potential with <a href="https://doi.org/10.1007/s10404-009-0536-0">Soong et. al. (2009)</a></em>; b) Comparison of streamwise velocity (<i>u*</i>) for a Newtonian fluid with 
+  <em>a) Comparison of electrostatic potential for different slip responsive zeta potentials with <a href="https://doi.org/10.1007/s10404-009-0536-0">Soong et. al. (2009)</a></em>; b) Comparison of streamwise velocity (<i>u*</i>) for a Newtonian fluid with 
   <a href="https://dx.doi.org/10.1088/1402-4896/ad164f">Liu et al. (2024)</a></em>
 
 </p>
