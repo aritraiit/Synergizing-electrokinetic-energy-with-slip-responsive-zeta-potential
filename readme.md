@@ -21,6 +21,10 @@ We have adopted regular perturbation methodology to solve the coupled electrohyd
 <p align="center">
   <img src="figures/psivalid.svg" alt="Figure 3a" width="350"/>
   <img src="figures/uy_valid.svg" alt="Figure 3b" width="350"/>
+  <br>
+  <em>a) Comparison of electrostsatic potential with <a href="https://doi.org/10.1007/s10404-009-0536-0">Soong et. al. (2009); b) Comparison of streamwise velocity (<i>u*</i>) for a Newtonian fluid with 
+  <a href="https://dx.doi.org/10.1088/1402-4896/ad164f">Liu et al. (2024)</a></em>
+
 </p>
 
 
