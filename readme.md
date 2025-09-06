@@ -65,24 +65,6 @@ These solutions therefore represent promising candidates for experimental valida
 <div class="repo-tree">
   <details open>
     <summary><span class="folder mono">codes_matlab/</span> <span class="badge">MATLAB scripts</span></summary>
-    <ul>
-      <li>
-        <details>
-          <summary><span class="folder mono">lineplots/</span></summary>
-          <ul>
-            <li><span class="folder mono">uyvelocity/</span></li>
-          </ul>
-        </details>
-      </li>
-      <li>
-        <details>
-          <summary><span class="folder mono">validation scripts/</span></summary>
-          <ul>
-            <li><span class="file mono"> <!-- leave empty or list files if any --> </span></li>
-          </ul>
-        </details>
-      </li>
-    </ul>
   </details>
 
   <details>
