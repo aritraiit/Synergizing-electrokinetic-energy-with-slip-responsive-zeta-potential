@@ -36,9 +36,9 @@ and fall within the shear-thinning regime relevant to our study ($n \approx 0.5$
 
 Representative examples include:
 
-- **Partially hydrolyzed polyacrylamide (HPAM):** exhibits $n = 0.426$ for molar concentrations $C[\eta] < 30$ 
-- **Sodium carboxymethylcellulose (CMC):** in 0.5 M NaCl under unentangled conditions, with reported $n \approx 0.25{-}0.37$ 
-- **Hyaluronic acid (HA, 1.6 MDa):** at 0.10 wt.% in PBS, showing $n \approx 0.47{-}0.68$ 
+- **Partially hydrolyzed polyacrylamide (HPAM):** exhibits $n = 0.426$ for molar concentrations $C[\eta] < 30$ <a href="https://doi.org/10.1038/s41598-024-79242-0">Pérez et al. (2024)</a></em>
+- **Sodium carboxymethylcellulose (CMC):** in 0.5 M NaCl under unentangled conditions, with reported $n \approx 0.25{-}0.37$ <a href="https://doi.org/10.1021/acs.macromol.8b00178">Lopez et al. (2018)</a></em>
+- **Hyaluronic acid (HA, 1.6 MDa):** at 0.10 wt.% in PBS, showing $n \approx 0.47{-}0.68$ <a href="https://doi.org/10.1063/1.4816708">Haward et al. (2013)</a></em>
 
 These solutions therefore represent promising candidates for experimental validation, albeit with some inevitable inaccuracies arising from the simplifying assumptions of the present theory.
 
